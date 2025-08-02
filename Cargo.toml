@@ -1,0 +1,6 @@
+[workspace]
+members = [ 
+    "meg", 
+    "meg-cli",
+    "meg-vm",
+]
